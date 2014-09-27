@@ -1,16 +1,3 @@
-<HTML>
-<HEAD>
-<TITLE>CONFUCIAN ANALECTS</TITLE>
-</HEAD>
-<BODY>
-<PRE>
-
-                                     500 BC
-                               CONFUCIAN ANALECTS
-                                   Confucius
-                       translated by James Legge [1893]
-                              1
-
   The Master "Is it not pleasant to learn with a constant perseverance
 and application?
   "Is it not delightful to have friends coming from distant quarters?
@@ -2727,7 +2714,3 @@ is impossible to be a superior man.
   "Without an acquaintance with the rules of Propriety, it is
 impossible for the character to be established.
   "Without knowing the force of words, it is impossible to know men."
-                            THE END
-</PRE>
-</BODY>
-</HTML>
