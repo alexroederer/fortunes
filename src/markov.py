@@ -71,8 +71,5 @@ if __name__ == "__main__":
     
     testChain = MarkovChain(1)
     testChain.learn('../data/fortunes.txt')
-    testChain.learn('../data/fortunes2.txt')
-    testChain.learn('../data/fortunes.txt')
-    testChain.learn('../data/fortunes2.txt')
 
     #testChain.learn('../data/analecs.txt')
