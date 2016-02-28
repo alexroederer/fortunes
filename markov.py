@@ -63,13 +63,12 @@ class MarkovChain:
         outputString = '------------Markov Chain Object-------------\n'
         #Add a nice printout representation of the object
         #Possibly with most likely tuples? 
+        #TODO
         outputString = outputString + '' 
         return outputString
 
-if __name__ == "__main__":
-    print "testChain variable initiated with test MarkovChain object"
+#if __name__ == "__main__":
+#    print "testChain variable initiated with test MarkovChain object"
     
-    testChain = MarkovChain(1)
-    testChain.learn('../data/fortunes.txt')
-
-    #testChain.learn('../data/analecs.txt')
+#    testChain = MarkovChain(1)
+#    testChain.learn('./data/fortunes.txt')
